@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning python, html, css3, javascript, java and kotlin.
 - 💞️ I’m looking to collaborate on anything I can help.
-- 📫 How to reach me ...
+- 📫 How to reach me: claudio22csc@gmail.com
 
 <!---
 DevClaudemir/DevClaudemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
